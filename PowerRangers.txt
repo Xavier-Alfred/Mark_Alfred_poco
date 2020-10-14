@@ -1,9 +1,9 @@
-SPD
-Ninja Storm
-Jungle Fury
-Samurai
-Mighty Morphin
-Dino Thunder
-Mega Force
-Time Force
-Neo Rangers
+SPD - Red,blue,pink,green,yellow
+Ninja Storm Red,blue,yellow
+Jungle Fury Red,blue,yellow
+Samurai Red,blue,pink,green,yellow
+Mighty Morphin Red,blue,pink,black,yellow
+Dino Thunder Red,blue,yellow
+Mega Force Red,blue,pink,black,yellow
+Time Force Red,blue,pink,green,yellow
+Neo Rangers Red,blue,pink,black,yellow
