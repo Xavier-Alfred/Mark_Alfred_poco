@@ -7,3 +7,4 @@ Dino Thunder Red,blue,yellow
 Mega Force Red,blue,pink,black,yellow
 Time Force Red,blue,pink,green,yellow
 Neo Rangers Red,blue,pink,black,yellow
+Super Mega Force Red,blue,pink,black,yellow
